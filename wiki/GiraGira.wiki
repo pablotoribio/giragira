@@ -6,7 +6,7 @@
  * Gráficos en 3D.
  * Reconocimiento de voz:
  * Reconocmiento de todas las vocales y puedas decir "a", "e", "i", "o" o "u".
- * Reconocimiento de todas las consonantes para pedir "N de Nicasio".
+ * Reconocimiento de todas las consonantes para pedir "N de Navarra".
 
 ----
 
