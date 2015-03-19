@@ -1,0 +1,1 @@
+Una versión en android del juego "La ruleta de la suerte" o "Ruleta de la fortuna".
